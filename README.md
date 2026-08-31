@@ -1,9 +1,1 @@
-I am Muhammed Swavaf, a passionate and experienced Computer Science professional with a strong background in Artificial Intelligence, Computer Vision, and Software Development. Currently, I am working as a Research Assistant (Lab Instructor) at the United Arab Emirates University, Al Ain, where I contribute to cutting-edge research in AI, Robotics, and Smart Mobility.
 
-My academic journey includes an MCA from Government Engineering College, Thrissur, and a BSc in Computer Science from MES Ponnani College. My early industry experience as a Lead Software Developer at Bakaal Technologies in Dubai and Software Developer at Lulu Group International helped me build a solid foundation in full-stack development, mobile apps, and business intelligence.
-
-At UAEU, I have had the privilege to work with esteemed labs such as the AI and Robotics Lab, Emirates Center for Mobility Research, and Connected Autonomous Intelligent Systems, contributing to projects involving medical imaging, sentiment analysis, humanoid robotics, drone imagery, and transportation data analytics. I have hands-on experience with deep learning frameworks like PyTorch, TensorFlow, and Scikit-learn, and have utilized high-performance computing systems (DGX1, A100) for training large models.
-
-I have published several peer-reviewed research papers in reputed journals like Scientific Reports, Neural Computing and Applications, and IEEE, and received recognitions such as the First Prize at the UAE Hackathon 2023 and the AI and IoT Excellence Award.
-
-Beyond research, I actively develop practical AI solutions, design intelligent mobile and web applications, and contribute to community-driven platforms using SharePoint, PowerApps, Tableau, and Flutter. I take pride in blending technical innovation with real-world impact, always striving to learn and build meaningful technologies.
